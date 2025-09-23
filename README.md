@@ -1,38 +1,44 @@
+# Portfolio
+
 ## Utvalgte prosjekter
 
-### [RickAndMorty] (https://github.com/katrineNaess/RickAndMorty)
 
-Et Android-prosjekt i **Kotlin** som henter data fra et Rick & Morty API og gir brukeren mulighet til å:
 
-- Vise alle karakterer
-- Lage en egen karakter
-- Vise selvlagde karakterer
-- Filtrere gjennom karakterene
+### [RickAndMorty](https://github.com/katrineNaess/RickAndMorty)
+Android-prosjekt i **Kotlin** som henter data fra Rick & Morty-API.
+
+**Nøkkelfunksjoner**
+- Vise alle karakterer  
+- Lage egne karakterer  
+- Vise selvlagde karakterer  
+- Filtrere gjennom karakterene  
 
 **Stack / språk:** Kotlin, Android
 
-### [TrumpNettside] (https://github.com/katrineNaess/TrumpNettside)
+---
 
-Fullstack prosjekt som kompinerer **React + TypeScript (frontend)** og **ASP.NET Core (backend)**.
-Løsningen demonsterer moderne frontend, full **CRUD** mot en database, samt fokus på universell utforming pg reponsivt design.
+### [TrumpNettside](https://github.com/katrineNaess/TrumpNettside)
+Fullstack-prosjekt som kombinerer **React + TypeScript (frontend)** og **ASP.NET Core (backend)**.  
+Demonstrerer moderne frontend, full **CRUD** mot database, universell utforming og responsivt design.
 
 **Språk:** TypeScript, C#, HTML, (litt) CSS/JavaScript
 
-### [UnityEksamen] (https://github.com/katrineNaess/UnityEksamen)
+---
 
-Et spill laget i Unity hvor målet er å skyte ned alle ballongen før tiden går ut eller fienden fanger deg.
+### [UnityEksamen](https://github.com/katrineNaess/UnityEksamen)
+Unity-spill der du må skyte/sprekke alle **ballongene** før tiden går ut – eller før fienden tar deg.
 
-## Nøkkelfunksjoner:
+**Nøkkelfunksjoner**
+- Poengsystem  
+- Timer og tilstandsbytte (Playing / Win / Lose)  
+- Fiende-AI som følger spilleren  
 
-- Poengsystem
-- Timer og tilstandsbytte (playing / win / lose)
-- Fiende-AI som følger spilleren
+**Stack / språk:** C#, Unity
 
-**Språk/tech:** C#, Unity
+---
 
-### [TurPlanleggings-Kart] (https://github.com/katrineNaess/TurPlanleggings-Kart)
+### [TurPlanleggings-Kart](https://github.com/katrineNaess/TurPlanleggings-Kart)
+App for enkel turplanlegging: finn **løyper** til fots, på ski eller sykkel; se **turisthytter** og **helsetjenester**; planlegg lengre turer med oversikt over **flyplasser** og **togstrekninger** i hele Norge.
 
-En applikasjon som gjør det lettere å planlegge din neste tur, finn lyper til fots, på ski eller sykkel. Se turisthytter og helsestjenester. Planlegg lengre turer med oversikt over flyplasser og togstrekninger i hele Norge.
-
-**Stack / språk:** TypeScript, OpenLayers, Vite, Node (server), CSS, HTML
-**Samarbeid:** Vi jobbet i egne brancher, fordelte oppgaver og samarbeidet på krevende deler.
+**Stack / språk:** TypeScript, OpenLayers, Vite, Node (server), CSS, HTML  
+**Samarbeid:** Jobbet i egne brancher, fordelte oppgaver og samarbeidet på krevende deler.
