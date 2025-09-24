@@ -35,6 +35,7 @@ Demonstrerer moderne frontend, full **CRUD** mot database, universell utforming 
 <img width="300" alt="Screenshot 2025-09-24 at 12 28 40" src="https://github.com/user-attachments/assets/99ae9bc4-1664-46a9-9561-ca496feb4480" />
 <img width="300" alt="Screenshot 2025-09-24 at 12 29 07" src="https://github.com/user-attachments/assets/fa0be1f6-093d-4187-a050-11884cd04f2d" />
 
+
 ---
 
 ### [UnityEksamen](https://github.com/katrineNaess/UnityEksamen)
@@ -52,13 +53,14 @@ Unity-spill der du må skyte/sprekke alle **ballongene** før tiden går ut – 
 <img width="300" alt="Screenshot 2025-09-24 at 12 57 51" src="https://github.com/user-attachments/assets/b3887900-ec15-48b6-8730-bfd82160b873" />
 <img width="300" alt="Screenshot 2025-09-24 at 12 58 07" src="https://github.com/user-attachments/assets/71e72ebf-aacb-4306-8043-b264fbc6c870" />
 
+
 ---
 
 ### [TurPlanleggings-Kart](https://github.com/katrineNaess/TurPlanleggings-Kart)
 App for enkel turplanlegging: finn **løyper** til fots, på ski eller sykkel; se **turisthytter** og **helsetjenester**; planlegg lengre turer med oversikt over **flyplasser** og **togstrekninger** i hele Norge.
 
-**Stack / språk:** TypeScript, OpenLayers, Vite, Node (server), CSS, HTML  
 **Samarbeid:** Jobbet i egne brancher, fordelte oppgaver og samarbeidet på krevende deler.
+**Stack / språk:** TypeScript, OpenLayers, Vite, Node (server), CSS, HTML  
 
 <img width="500" alt="Screenshot 2025-09-24 at 13 10 09" src="https://github.com/user-attachments/assets/faa19382-6aba-4325-84ae-f14f346ade26" />
 <img width="500" alt="Screenshot 2025-09-24 at 13 53 44" src="https://github.com/user-attachments/assets/c92f4661-d8f0-4361-b116-7f075077cbb6" />
