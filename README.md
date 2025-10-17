@@ -75,9 +75,9 @@ App for enkel turplanlegging: finn **løyper** til fots, på ski eller sykkel; s
 iOS-prosjekt i **Swift/SwiftUI** for enkel og effektiv oppgavehåndtering.
 
 **Nøkkelfunksjoner**
-- Legge til / markere som fullført / slette oppgaver  
-- Redigere tittel og forfallsdato  
-- Sortering/filtrering (f.eks. etter status eller dato)  
+- Legge til / markere som fullført / slette/arkivere oppgaver
+- Redigere innhold 
+- Sortering/filtrering på kategori og status
 - Vedvarende lagring (lokalt)  
 - Mørk/lys-modus og støtte for Dynamic Type
 
