@@ -38,7 +38,7 @@ Demonstrerer moderne frontend, full **CRUD** mot database, universell utforming 
 
 ---
 
-### [UnityEksamen](https://github.com/katrineNaess/UnityEksamen)
+### [Ballong spill](https://github.com/katrineNaess/UnityEksamen)
 Unity-spill der du må skyte/sprekke alle **ballongene** før tiden går ut – eller før fienden tar deg.
 
 **Nøkkelfunksjoner**
@@ -66,5 +66,29 @@ App for enkel turplanlegging: finn **løyper** til fots, på ski eller sykkel; s
 <img width="500" alt="Screenshot 2025-09-24 at 13 53 44" src="https://github.com/user-attachments/assets/c92f4661-d8f0-4361-b116-7f075077cbb6" />
 <img width="500" alt="Screenshot 2025-09-24 at 13 50 49" src="https://github.com/user-attachments/assets/257a9f24-9a18-4531-9bb4-f2a1e4dbabd6" />
 <img width="500" alt="Screenshot 2025-09-24 at 13 51 51" src="https://github.com/user-attachments/assets/e600058d-4917-40d1-b0de-8d1078d590f9" />
+
+
+---
+
+### [ToDo App](https://github.com/katrineNaess/ToDo-app)
+
+iOS-prosjekt i **Swift/SwiftUI** for enkel og effektiv oppgavehåndtering.
+
+**Nøkkelfunksjoner**
+- Legge til / markere som fullført / slette oppgaver  
+- Redigere tittel og forfallsdato  
+- Sortering/filtrering (f.eks. etter status eller dato)  
+- Vedvarende lagring (lokalt)  
+- Mørk/lys-modus og støtte for Dynamic Type
+
+**Stack / språk:** Swift, iOS (SwiftUI)
+
+<img width="190" alt="Screenshot 2025-10-17 at 11 37 31" src="https://github.com/user-attachments/assets/e5363c37-9c4b-4805-a991-9cd44529211f" />
+<img width="190" alt="Screenshot 2025-10-17 at 11 37 50" src="https://github.com/user-attachments/assets/7edde197-c21f-4fd5-9d06-ffdb98aa914f" />
+<img width="190" alt="Screenshot 2025-10-17 at 11 38 07" src="https://github.com/user-attachments/assets/30f73942-8d0e-4fd2-8b46-7138d8cda743" />
+<img width="190" alt="Screenshot 2025-10-17 at 11 38 27" src="https://github.com/user-attachments/assets/33063e7d-fe88-434d-b8f4-47801bd40052" />
+<img width="190" alt="Screenshot 2025-10-17 at 11 38 55" src="https://github.com/user-attachments/assets/06540f0a-4193-411f-b6c0-02ca0c99098e" />
+
+
 
 
