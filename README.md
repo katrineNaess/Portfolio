@@ -5,6 +5,46 @@ Jeg kombinerer UX-design, interaksjonsdesign og frontend-utvikling for å skape 
 
 ## Utvalgte prosjekter
 
+---
+
+## Bachelorprosjekt – Tekstapp
+
+### [Tekstapp (GitHub)](https://github.com/KajaJohanne/BAO304-Tekstapp)
+### [Prototype i Figma](https://www.figma.com/design/MHa8Ggry4PnkvGIEB38bFc/Bachelor-prototype?node-id=0-1&p=f&t=Iw41malvC5vgI4Pb-0)
+
+Bachelorprosjekt utviklet i team med fokus på å designe og bygge en brukervennlig digital løsning.  
+Prosjektet kombinerte UX-design, interaksjonsdesign, prototyping og utvikling gjennom hele prosessen.
+
+**Min rolle**
+- Design og idéutvikling
+- Prototype i Figma
+- Frontend / utvikling
+- Testing og forbedringer
+- Samarbeid i team
+
+**Prosess**
+- Kartla behov og definerte løsning
+- Lagde wireframes og brukerflyt
+- Designet prototype i Figma
+- Itererte basert på tilbakemeldinger
+- Utviklet ferdig løsning i kode
+
+**Prosjektet inneholder**
+- UX-design og brukerfokus
+- Interaksjonsdesign og navigasjon
+- Samarbeid i team
+- Evne til å gå fra idé til ferdig produkt
+- Teknisk forståelse og implementering
+
+**Stack / verktøy:** Figma, GitHub, TypeScript
+
+<img width="500" alt="Screenshot 2026-04-24 at 14 40 10" src="https://github.com/user-attachments/assets/5b69f26b-854a-4f1d-ac68-b4d37b72c309" />
+<img width="500" alt="Screenshot 2026-04-24 at 14 39 35" src="https://github.com/user-attachments/assets/496fde2a-23c4-4c10-91c2-2bab90fb600c" />
+<img width="500" alt="Screenshot 2026-04-24 at 14 39 20" src="https://github.com/user-attachments/assets/8e8ddefc-7d3e-4ea5-8d62-d1fdecba1adf" />
+<img width="500" alt="Screenshot 2026-04-24 at 14 38 58" src="https://github.com/user-attachments/assets/00a8dd74-0936-433c-98be-93c07ded79f0" />
+
+
+---
 
 
 ### [RickAndMorty](https://github.com/katrineNaess/RickAndMorty)
