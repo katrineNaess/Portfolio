@@ -1,4 +1,7 @@
 # Portfolio
+Hei, jeg heter Katrine.
+Jeg designer og utvikler digitale løsninger med fokus på brukervennlighet, struktur og gode opplevelser.
+Jeg kombinerer UX-design, interaksjonsdesign og frontend-utvikling for å skape løsninger som både fungerer godt og ser bra ut.
 
 ## Utvalgte prosjekter
 
